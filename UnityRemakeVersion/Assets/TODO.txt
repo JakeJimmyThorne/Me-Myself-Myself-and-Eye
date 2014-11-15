@@ -1,0 +1,26 @@
+
+/*
+
+TO DO FOR PROTOTYPE RELEASE
+
+
+- Menu Sound jump when adjusting volume
+
+
+
+
+FOR AFTER
+
+- Random eye placement
+- Side to side head movement when idle?
+
+
+
+
+
+
+
+
+
+
+*/
